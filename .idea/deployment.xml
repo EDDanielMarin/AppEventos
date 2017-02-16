@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="https://github.com/EDDanielMarin/AppEventos.git" uploadOnCheckin="0a2952c9-8053-4af0-8094-fbe73f2b5288">
+    <serverData>
+      <paths name="https://github.com/EDDanielMarin/AppEventos.git">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myUploadOnCheckinName" value="https://github.com/EDDanielMarin/AppEventos.git" />
+  </component>
+</project>
